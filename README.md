@@ -37,11 +37,11 @@ This **To-Do List** is a Python-based console application that helps users manag
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/nivedhapm/to-do-list.git
+    git clone https://github.com/nivedhapm/To-do-list.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd to-do-list
+    cd To-do-list
     ```
 3. Run the Python script:
     ```bash
